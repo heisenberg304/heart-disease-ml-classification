@@ -262,7 +262,7 @@ Potential improvements:
 
 ## Author
 
-David
+Elias Delgado
 
 Machine Learning Student
 
